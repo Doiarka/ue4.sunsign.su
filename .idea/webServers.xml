@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="26e968af-f2c0-4b0f-b8d7-673709596694" name="ue4.sunsign.su" url="http://u44441.netangels.ru">
+        <fileTransfer host="u44441.netangels.ru" port="22" rootFolder="/home/u44441/ue4.sunsign.su" accessType="SFTP" password="dfc5dfc3dfd8df99dfc9df99dfc8dfccdfc9dfc7" username="u44441">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

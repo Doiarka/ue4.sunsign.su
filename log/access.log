@@ -1,0 +1,2 @@
+212.49.107.36 - - [12/Jan/2017:09:06:34 +0500] "GET / HTTP/1.0" 403 5608 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 6618
+212.49.107.36 - - [12/Jan/2017:09:06:34 +0500] "GET /favicon.ico HTTP/1.0" 404 289 "http://ue4.sunsign.su/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 1654
