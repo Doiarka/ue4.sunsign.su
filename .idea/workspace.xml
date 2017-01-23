@@ -22,25 +22,130 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Login.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/Login.php">
+      <file leaf-file-name="GetMessages.php" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;26e968af-f2c0-4b0f-b8d7-673709596694&gt;/www/GetMessages.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="62" />
               <folding>
-                <marker date="1483809947000" expanded="true" signature="183:233" ph="SELECT * FRO... Login" />
-                <marker date="1483809947000" expanded="true" signature="566:627" ph="UPDATE Login... " />
+                <marker date="0" expanded="true" signature="121:142" ph="SELECT * FRO... Messages" />
+                <marker date="0" expanded="true" signature="121:159" ph="SELECT * FRO... Message" />
+                <marker date="0" expanded="true" signature="121:161" ph="SELECT * FRO... Message" />
+                <marker date="0" expanded="true" signature="121:175" ph="SELECT * FRO... Messages" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="true" current-in-tab="true">
-        <entry file="remoteDeploymentFS://&lt;26e968af-f2c0-4b0f-b8d7-673709596694&gt;/www/index.html">
+      <file leaf-file-name="Chats.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/Chats.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <marker date="1484882221393" expanded="true" signature="115:134" ph="SELECT * FRO... Chats" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getstats.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/getstats.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="63" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="63" />
+              <folding>
+                <marker date="1482825237000" expanded="true" signature="411:518" ph="SELECT Addit... Stats" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateChat.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/CreateChat.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+              <folding>
+                <marker date="1484915080707" expanded="true" signature="156:192" ph="SELECT * FRO... Chats" />
+                <marker date="1484915080707" expanded="true" signature="156:208" ph="SELECT * FRO... Chats" />
+                <marker date="1484915080707" expanded="true" signature="162:175" ph="INSERT INTO `Chats`... " />
+                <marker date="1484915080707" expanded="true" signature="334:413" ph="INSERT INTO Chats... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateTable.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/CreateTable.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+              <folding>
+                <marker date="1484916029867" expanded="true" signature="129:225" ph="SELECT * FRO... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoomMessages.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/RoomMessages.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="28" column="56" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
-              <folding />
+              <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+              <folding>
+                <marker date="1484920781274" expanded="true" signature="197:287" ph="SELECT * FRO... Chats" />
+                <marker date="1484920781274" expanded="true" signature="287:288" ph="UPDATE Chats... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UpdateChats.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/UpdateChats.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+              <folding>
+                <marker date="1484918696650" expanded="true" signature="162:241" ph="UPDATE Chats... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Register.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/Register.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <marker date="1482691726000" expanded="true" signature="213:267" ph="SELECT Email... Login" />
+                <marker date="1482691726000" expanded="true" signature="458:572" ph="INSERT INTO Login... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChatLogin.php" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;26e968af-f2c0-4b0f-b8d7-673709596694&gt;/www/ChatLogin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <marker date="0" expanded="true" signature="172:228" ph="SELECT * FRO... Login" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getlaststats.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/getlaststats.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <marker date="1482824281000" expanded="true" signature="139:230" ph="SELECT LastA... Stats" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,12 +159,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/www/index.php" />
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="&lt;26e968af-f2c0-4b0f-b8d7-673709596694&gt;/www/index.html" />
+        <option value="&lt;26e968af-f2c0-4b0f-b8d7-673709596694&gt;/www/GetMessages" />
+        <option value="&lt;26e968af-f2c0-4b0f-b8d7-673709596694&gt;/www/ChatLogin.php" />
+        <option value="&lt;26e968af-f2c0-4b0f-b8d7-673709596694&gt;/www/GetMessages.php" />
+        <option value="$PROJECT_DIR$/www/Chats.php" />
+        <option value="$PROJECT_DIR$/www/CreateChat.php" />
+        <option value="$PROJECT_DIR$/www/CreateTable.php" />
+        <option value="$PROJECT_DIR$/www/UpdateChats.php" />
+        <option value="$PROJECT_DIR$/www/RoomMessages.php" />
       </list>
     </option>
   </component>
@@ -104,8 +220,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -140,6 +254,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -149,7 +265,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
@@ -204,23 +320,24 @@
       <option name="presentableId" value="Default" />
       <updated>1484191310863</updated>
       <workItem from="1484191313071" duration="3369000" />
-      <workItem from="1484208551585" duration="5703000" />
+      <workItem from="1484208551585" duration="5767000" />
+      <workItem from="1484638534746" duration="26600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9072000" />
+    <option name="totallyTimeSpent" value="35736000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <editor active="false" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -263,6 +380,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1483809947000" expanded="true" signature="183:233" ph="SELECT * FRO... Login" />
+            <marker date="1483809947000" expanded="true" signature="566:627" ph="UPDATE Login... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/index.php" />
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -285,6 +413,110 @@
           <folding>
             <marker date="1483809947000" expanded="true" signature="183:233" ph="SELECT * FRO... Login" />
             <marker date="1483809947000" expanded="true" signature="566:627" ph="UPDATE Login... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/ChatLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1483809947000" expanded="true" signature="183:233" ph="SELECT * FRO... Login" />
+            <marker date="1483809947000" expanded="true" signature="566:627" ph="UPDATE Login... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/getlaststats.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <marker date="1482824281000" expanded="true" signature="139:230" ph="SELECT LastA... Stats" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/Register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <marker date="1482691726000" expanded="true" signature="213:267" ph="SELECT Email... Login" />
+            <marker date="1482691726000" expanded="true" signature="458:572" ph="INSERT INTO Login... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/UpdateChats.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding>
+            <marker date="1484918696650" expanded="true" signature="162:241" ph="UPDATE Chats... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/GetRoomMessages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/CreateTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding>
+            <marker date="1484916029867" expanded="true" signature="129:225" ph="SELECT * FRO... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/CreateChat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          <folding>
+            <marker date="1484915080707" expanded="true" signature="156:192" ph="SELECT * FRO... Chats" />
+            <marker date="1484915080707" expanded="true" signature="156:208" ph="SELECT * FRO... Chats" />
+            <marker date="1484915080707" expanded="true" signature="162:175" ph="INSERT INTO `Chats`... " />
+            <marker date="1484915080707" expanded="true" signature="334:413" ph="INSERT INTO Chats... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/Chats.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <marker date="1484882221393" expanded="true" signature="115:134" ph="SELECT * FRO... Chats" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/getstats.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="63" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="63" />
+          <folding>
+            <marker date="1482825237000" expanded="true" signature="411:518" ph="SELECT Addit... Stats" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/RoomMessages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding>
+            <marker date="1484920781274" expanded="true" signature="197:287" ph="SELECT * FRO... Chats" />
+            <marker date="1484920781274" expanded="true" signature="287:288" ph="UPDATE Chats... " />
           </folding>
         </state>
       </provider>
