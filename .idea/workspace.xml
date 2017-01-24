@@ -321,15 +321,15 @@
       <updated>1484191310863</updated>
       <workItem from="1484191313071" duration="3369000" />
       <workItem from="1484208551585" duration="5767000" />
-      <workItem from="1484638534746" duration="26600000" />
+      <workItem from="1484638534746" duration="27071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35736000" />
+    <option name="totallyTimeSpent" value="36207000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
